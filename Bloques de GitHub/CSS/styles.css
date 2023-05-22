@@ -1,0 +1,59 @@
+.container {
+    border: 1px solid black;
+    padding: 10px;
+    background-color: rgb(92, 255, 28);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.gatitos{
+    display: flex;  
+    flex-direction: row;
+}
+.gatos {
+    flex-direction: row;
+    height: 100px;
+    margin: 15px;
+}
+.gato1 {
+    flex-direction: row;
+    height: 100px;
+    margin: 15px;
+
+}
+.octogatoss{
+    flex-direction: row;
+    height: 100px;
+    margin: 15px;
+}
+.container2 {
+    border: 1px solid rgb(255, 255, 255);
+    padding: 10px;
+    background-color: rgb(230, 52, 224);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.octogato{
+    flex-direction: row;
+    height: 100px;
+    margin: 15px;
+}
+.container3 {
+    border: 1px solid rgb(12, 5, 5);
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.octogato2{
+    flex-direction: row;
+    height: 100px;
+    margin: 15px;
+}
+.octogato{
+    flex-direction: row;
+    height: 100px;
+    margin: 15px;
+}
